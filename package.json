@@ -11,13 +11,14 @@
     "type": "git",
     "url": "git+https://github.com/taylonr/async-programming-promises.git"
   },
-  "author": "Nate Taylor (taylonr@gmail.com)",
+  "author": "misher liu",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/taylonr/async-programming-promises/issues"
   },
   "homepage": "https://github.com/taylonr/async-programming-promises#readme",
   "dependencies": {
+    "axios": "^1.7.4",
     "cross-env": "^7.0.2",
     "express": "^4.17.1",
     "json-server": "^0.15.1"
